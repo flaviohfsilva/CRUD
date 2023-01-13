@@ -4,4 +4,4 @@ Este projeto do CRUD(Create, Read, Update, Delete) tem o uso da linguagem PHP co
 foi feito a utilização do HTML, CSS, Bootstrap e xampp.
 
 Esse Crud tem como funcionalidade poder cadastrar os usuários e mostrá-los em uma tabela contendo as informações que foram passadas no cadastro, 
-como: nome, data de nascimento e o e-mail, ademais com algumas ações que podem ser feitas como editar alguma informação ou apagar o usuário cadastrado. 
+como: nome, data de nascimento e o e-mail. Ademais com algumas ações que podem ser feitas como editar alguma informação ou apagar o usuário cadastrado. 
