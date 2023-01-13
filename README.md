@@ -1,6 +1,7 @@
 # CRUD
 
 Este projeto do CRUD(Create, Read, Update, Delete) tem o uso da linguagem PHP com a integração do banco de dados MySql, além disso, 
-foi feito a utilização do HTML, CSS e Bootstrap.
+foi feito a utilização do HTML, CSS, Bootstrap e xampp.
 
-De modo geral, esse projeto é para mostrar minha habilidade com o banco de dados e também com o php. 
+Esse Crud tem como funcionalidade poder cadastrar os usuários e mostrá-los em uma tabela contendo as informações que foram passadas no cadastro 
+- nome, data de nascimento e o e-mail -, ademais com algumas ações que podem ser feitas como editar alguma informação ou apagar o usuário cadastrado. 
